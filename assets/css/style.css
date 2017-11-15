@@ -1,0 +1,70 @@
+body {
+	background-image: url("../images/background7.jpeg");
+	background-size: 100%;
+	color: #fff;
+	opacity: .8;
+	background-repeat: no-repeat;
+}
+
+.wrapper {
+	width: 960px;
+	margin: 0 auto;
+}
+
+.container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+.contain {
+
+	margin: 0 auto;
+}
+
+#target, #total {
+	color: #000;
+}
+
+#targetDiv, #totalDiv {
+	width: auto;
+	height: 100px;
+	background-color: #eee;
+	border: solid 2px #aaa;
+	margin: 10px;
+	box-shadow: 5px 5px 5px #555;
+	opacity: .7;
+}
+
+button {
+	margin: 10px;
+	box-shadow: 5px 5px 5px #555;
+}
+
+section {
+	
+}
+
+header {
+	
+}
+
+#target, #total {
+	font-size: 54px;
+	margin-left: 35%;
+}
+
+#button1 {
+	
+}
+
+#button2 {
+	
+}
+
+#button3 {
+	
+}
+
+#button4 {
+	
+}
